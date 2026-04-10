@@ -38,8 +38,7 @@ This project demonstrates multithreading in Qt C++ using QThread. It prints odd 
 4. Observe alternating odd and even number output
 
 # Output
-
-(Add screenshot here)
+![Output](PrintOddNumbers.png)
 
 # Author
 
